@@ -1,0 +1,27 @@
+100 Load 120
+
+101 Add 121
+
+102 Subt 122
+
+103 Store 130
+
+104 Output
+
+105 Input
+
+106 Output
+
+107 Load 123
+
+108 Output
+
+109 HALT
+
+120 00A3
+
+121 FFE9
+
+122 0000
+
+123 1000
